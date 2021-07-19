@@ -2,7 +2,7 @@
 A simple script to install all termux package in single command
 
 # Install
-Beware: This requires atleast 17 GB+ of free storage. This script **May not gonna work sometime** due to termux pkg changes
+Beware: This requires atleast 17 GB+ of free storage. This script **__may not gonna work sometime__** due to termux pkg changes. So do not expect it will works perfectly.
 ```bash
 curl -L# https://github.com/Yonle/installevery_termuxpackage/raw/main/installAllPkg.sh | sh
 ```
